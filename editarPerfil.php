@@ -301,9 +301,6 @@
                 <a class="nav-link" href="linux.php">Linux</a>
               </li>
           </ul>
-          <a href="">
-            <box-icon type='solid' name='moon' class="mr-2"></box-icon>
-          </a>
           <a href="editarPerfil.php">
             <box-icon name='user' type='solid'></box-icon>
           </a>

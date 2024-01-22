@@ -2,7 +2,7 @@
   session_start();
 ?>
 <!DOCTYPE html>
-<html lang="en" class="dark">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -45,9 +45,6 @@
                 <a class="nav-link" href="linux.php">Linux</a>
               </li>
           </ul>
-          <a href="#">
-            <box-icon type='solid' name='moon' class="mr-2"></box-icon>
-          </a>
           <?php
             if (isset($_SESSION['perfil'])) {
                 $userType = $_SESSION['perfil'];

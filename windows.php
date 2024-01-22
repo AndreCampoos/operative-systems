@@ -37,9 +37,6 @@
                 <a class="nav-link" href="linux.php">Linux</a>
               </li>
           </ul>
-          <a href="#" id="switch" onclick="toggleMode()">
-            <box-icon type='solid' name='moon' class="mr-2"></box-icon>
-          </a>
           <?php
             if (isset($_SESSION['perfil'])) {
                 $userType = $_SESSION['perfil'];
@@ -70,7 +67,7 @@
     <br>
     Lançado a 20 de novembro de 1985, o windows 1.0 foi o primeiro lançamento, podendo então dizer que foi onde tudo começou. Este não era bem um sistema operativo e sim uma interface gráfica, sendo o seu principal elemento o gestor de ficheiros.
     <br>
-    Esta primeira versão do windows esteve longe de ser um sucesso, pois foi apenas uma das várias iinterfaces gráficas que nasceram após o lançamento do Macintosh. Uma das prinicpais criticas que este sofria era relativamente ao peso do sistema, que exigia no minimo, um PC XT.
+    Esta primeira versão do windows esteve longe de ser um sucesso, pois foi apenas uma das várias interfaces gráficas que nasceram após o lançamento do Macintosh. Uma das prinicpais criticas que este sofria era relativamente ao peso do sistema, que exigia no minimo, um PC XT.
     <br>
       <br>
     <b>Windows 2.0</b>
@@ -138,7 +135,7 @@
     <br>
     Lançado a 29 de julho de 2015, o Windows 10 trouxe várias mudanças relativamente ao seu antecessor, na forma como este é produzido e comercializado, sendo vendido como um serviço.
     <br>
-    Algumas das novidades que o Windows 10 trouxe aos utilizadores foi o Menu Iniciar, que ffoi retirado no Windows 8, implementado novamente no Windows 8.1 e continuou neste sistema, porém mais personalizável. Outro destaque foi o modo de jogo no creators update, este novo recurso desliga os serviços que diminuem o desempenho do computador.
+    Algumas das novidades que o Windows 10 trouxe aos utilizadores foi o Menu Iniciar, que foi retirado no Windows 8, implementado novamente no Windows 8.1 e continuou neste sistema, porém mais personalizável. Outro destaque foi o modo de jogo no creators update, este novo recurso desliga os serviços que diminuem o desempenho do computador.
     <br>
     Outros recursos muito elogiados pelos utilizadores foi as multiplas áreas de trabalho e a cortana, a assistente pessoal do Windows, que pode ser ativa através de comandos de voz, como "Hey Cortana".
     <br>
