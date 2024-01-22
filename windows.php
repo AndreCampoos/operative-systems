@@ -2,7 +2,7 @@
   session_start();
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,7 +37,7 @@
                 <a class="nav-link" href="linux.php">Linux</a>
               </li>
           </ul>
-          <a href="">
+          <a href="#" id="switch" onclick="toggleMode()">
             <box-icon type='solid' name='moon' class="mr-2"></box-icon>
           </a>
           <?php
@@ -95,12 +95,57 @@
     <br>
       <br>
     <b>Windows 98</b>
+    <br>
     Lançado em 1998, este tinha como foco principal a Internet. O Internet Explorer tornou-se um componente deste sistema operativo e a este também foi conectado um recurso intitulado de "Active Desktop", que permitia visualizar informações vindas de websites e atualizadas sempre que o computador é conectado à internet. Este também foi o pioneiro, no que toca ao suporte a USB's, drives de DVD e ao baramento AGP.
     <br>
       <br>
     <b>Windows Me</b>
     <br>
-    O Windows Millenium Edition foi um intermediário entre o windows 98 e o windows XP que ficou apenas 1 ano no mercado. Esta foi a última versão que rodava no MS-DOS e tinha como objetivo melhorar o suporte da criação de conteuído, com a ajuda de várias aplicações como o Windows Movie Maker, o Movie Maker, o Windows DVD Player e o Windows Media Player.
+    O Windows Millenium Edition foi um intermediário entre o windows 98 e o windows XP que ficou apenas 1 ano no mercado, sendo o a último a rodar no MS-DOS que tinha como objetivo melhorar o suporte da criação de conteuído, com a ajuda de várias aplicações como o Windows Movie Maker, o Movie Maker, o Windows DVD Player e o Windows Media Player.
+    <br>
+      <br>
+    <b>Windows XP</b>
+    <br>
+    Este foi lançado em 2001 e, quase 16 anos depois, o windows tornou-se um sistema operativo independente, com isto quero dizer que não dependia mais do MS-DOS, sendo baseado no windows NT, criado principalmente para o mundo corporativo e empresarial.
+    <br>
+    No windows XP, a interface visual também foi alterada, para melhor, ganhando assim mais cores e animações. Este também melhorou a nível de desempenho, estabilidade e segurança, pois foi neste também que a Microsoft começou a implementar recursos de segurança, como a Central de Segurança do Windows XP Service Pack 2, que facilitava os utilizaodres na configuração de recursos como a firewall, etc.
+    <br>
+      <br>
+    <b>Windows Vista</b>
+    <br>
+    O Windows Vista foi um sistema operativo lançado pela Microsoft em janeiro de 2007. Neste destaca-se a mudança drástica de visual, as novas ferramentas implementadas, como o Windows DVD Maker e a elevação do nível de comunicação entre computadores, utilizando o P2P (Peer-to-Peer)
+    <br>
+    Este sistema possuía ainda a versão 3.0 do Microsoft .NET Framework, que tem como objetivo melhorar o desempenho e facilitar o desenvolvimento de aplicações de alta qualidade. Para que este sistema operativo funcione corretamente, é necessário que o computador tenha, pelo menos, 1 Gb de memória RAM.
+    <br>
+      <br>
+    <b>Windows 7</b>
+    <br>
+    O Windows 7 foi lançado em outubro de 2009 e, assim como nos seus antecessores (o Windows XP e o Windows Vista), este fez melhorias no design, nos recursos e nas ferramentas disponiveis ao utilizador.
+    <br>
+    Para instalar este sistema operativo, o computador tem de ter, no mínimo, um processador de 32 bits, 1 Gb de RAM, 16 Gb de memória em disco e um dispositivo gráfico DirectX 9 com driver WDDM 1.0.
+    <br>
+    No total, foram lançadas 6 versões do Windows 7, sendo elas o Windows 7 Starter, o Windows 7 Home Basic, Windows 7 Home Premium, Windows 7 Professional, Windows 7 Enterprise e o Windows 7 Ultimate.
+    <br>
+      <br>
+    <b>Windows 8</b>
+    <br>
+    Depois do sucesso do Windows 7, este veio trazer algumas melhorias e uma ideia nova relativamente ao comportamente das aplicações. Este sistema operativo estava melhor que o anterior, porém tinha um problema, que como era uma dependetende de toques, a sua utilização não era prática.
+    <br>
+    Também foi no windows 8 que apareceu a Microsoft Store, loja de aplicações oficial da marca, que já vem instalada diretamente no sistema.
+    <br>
+      <br>
+    <b>Windows 10</b>
+    <br>
+    Lançado a 29 de julho de 2015, o Windows 10 trouxe várias mudanças relativamente ao seu antecessor, na forma como este é produzido e comercializado, sendo vendido como um serviço.
+    <br>
+    Algumas das novidades que o Windows 10 trouxe aos utilizadores foi o Menu Iniciar, que ffoi retirado no Windows 8, implementado novamente no Windows 8.1 e continuou neste sistema, porém mais personalizável. Outro destaque foi o modo de jogo no creators update, este novo recurso desliga os serviços que diminuem o desempenho do computador.
+    <br>
+    Outros recursos muito elogiados pelos utilizadores foi as multiplas áreas de trabalho e a cortana, a assistente pessoal do Windows, que pode ser ativa através de comandos de voz, como "Hey Cortana".
+    <br>
+      <br>
+    <b>Nota - A assistente pessoal do Windows (Cortana) não se encontra disponível em português, e por esse motivo não funciona caso o sistema operativo se encontre configurado com este idioma.</b>
   </div>
+
+  <script src="script.js"></script>
 </body>
 </html>

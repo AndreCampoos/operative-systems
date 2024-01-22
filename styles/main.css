@@ -134,3 +134,13 @@ hr{
         margin-top: 20px;
     }
 }
+
+:root{
+    background-color: white;
+    color: black;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
