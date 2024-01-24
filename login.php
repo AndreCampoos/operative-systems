@@ -296,7 +296,7 @@
           </li>
       </ul>
       <a href="login.php">
-        <box-icon name='user' type='solid'></box-icon>
+        <img src="assets/bxs-user.svg">
       </a>
     </div>
   </nav>

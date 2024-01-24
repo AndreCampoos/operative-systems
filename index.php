@@ -41,12 +41,12 @@
             if (isset($_SESSION['perfil'])) {
                 $userType = $_SESSION['perfil'];
                 if ($userType === 'user') {
-                    echo '<a href="editarPerfil.php"><box-icon name="user" type="solid"></box-icon></a>';
+                    echo '<a href="editarPerfil.php"><img src="assets/bxs-user.svg"></a>';
                 } elseif ($userType === 'adm') {
-                    echo '<a href="areaAdmin.php"><box-icon name="user" type="solid"></box-icon></a>';
+                    echo '<a href="areaAdmin.php"><img src="assets/bxs-user.svg"></a>';
                 }
             } else {
-                echo '<a href="login.php"><box-icon name="user" type="solid"></box-icon></a>';
+                echo '<a href="login.php"><img src="assets/bxs-user.svg"></a>';
             }
           ?>
         </div>

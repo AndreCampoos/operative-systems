@@ -54,7 +54,7 @@
                     echo '<a href="areaAdmin.php"><box-icon name="user" type="solid"></box-icon></a>';
                 }
             } else {
-                echo '<a href="login.php"><box-icon name="user" type="solid"></box-icon></a>';
+                echo '<a href="login.php"><img src="assets/bxs-user.svg"></a>';
             }
           ?>
         </div>
@@ -95,7 +95,7 @@
         <br>
       <div class="toturial-details d-flex justify-content-center align-items-center mb-5" data-toggle="collapse" data-target="#toturial" onclick="exibirMensagem()">
         <p class="m-0">Continuar a ver</p>
-        <box-icon name='chevron-down'></box-icon>
+        <img src="assets/bx-chevron-down.svg">
       </div>
       <div id='toturial' class='collapse'>
         <b>4º Passo - Dentro da BIOS, selecionamos a opção "Boot Menú"</b>

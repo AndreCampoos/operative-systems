@@ -46,7 +46,7 @@
                     echo '<a href="areaAdmin.php"><box-icon name="user" type="solid"></box-icon></a>';
                 }
             } else {
-                echo '<a href="login.php"><box-icon name="user" type="solid" style="color: black;"></box-icon></a>';
+                echo '<a href="login.php"><img src="assets/bxs-user.svg"></a>';
             }
           ?>
         </div>
