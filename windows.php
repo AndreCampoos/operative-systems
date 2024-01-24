@@ -144,10 +144,66 @@
 
     <br>
       <br>
-    <b>Como instalar o Windows através do ISO</b>
+    <b>Como instalar o Windows 11 através do ISO</b>
     <br>
       <br>
-    Esta opção destina-se apenas a quem pretende fazer a instalação através de uma pen com o ficheiro .iso, porém no página oficial da Microsoft (<a href="https://www.microsoft.com/pt-pt/software-download/windows11">https://www.microsoft.com/pt-pt/software-download/windows11</a>) é possível encontrar as restantes alternativas para a instalação deste sistema.
+    Esta opção destina-se apenas a quem pretende fazer a instalação através de uma pen ou de um DVD com o ficheiro .iso, porém na página oficial da Microsoft (<a href="https://www.microsoft.com/pt-pt/software-download/windows11">https://www.microsoft.com/pt-pt/software-download/windows11</a>) é possível encontrar as restantes alternativas para a instalação deste sistema.
+    <br>
+      <br>
+    <b>1º Passo</b>
+    <br>
+    Antes de começar a intalação, devemos verificar a ligação à internet, devemos também verificar o armazenamento disponível no computador, na pen ou no DVD (de acordo com o local para onde vamos transferir o ficheiro .iso). A pen ou o DVD onde vamos instalar o ficheiro deve estar vazio, pois todo o conteudo nele existente será eliminado durante a instalação do sistema.
+    <br>
+    No caso de estar a utilizar um DVD para a instalação e receber um aviso com a mensagem: "o ficheiro de imagem de disco é demasiado grande", devemos utilizar um DVD Dual Layer com mais capacidade.
+    <br>
+      <br>
+    <b>Instruções de instalação através de um DVD</b>
+    <br>
+    <b>1º Passo</b> 
+    <br>
+    Localizar a pasta para onde foi feita a transferência do ficheiro .iso do Windows 11
+    <b>1ª Opção</b>
+    <br>
+    No caso de pretender utilizar um DVD, clique com o botão direito do mouse no ficheiro .iso e selecone a opção "Propriedades". Depois, no separador "Geral", selecionamos a opção "Alterar" e onde diz "Abrir com", podemos selecionar o explorador do windows. Por fim, basta aplicara as alterações.
+    <br>
+      <br>
+    <b>2ª Opção</b>
+    <br>
+    No caso de pretender utilizar um programa de gravação de DVD's de terceiros, basta selecionar a opção "Abrir com" e continuar o processo.
+    <br>
+      <br>
+    <b>Instruções de instalação</b>
+    <br>
+      <br>
+    <b>1º Passo</b>
+    <br>
+    Primeiro, devemos aceder à pasta onde instalámos o ficheiro .iso, depois carregamos com o botão direito do mouse e selecionamos a opção "Propriedades".
+    <br>
+      <br>
+    <b>2º Passo</b>
+    <br>
+    No separador "Geral", selecionamos a opção "Alterar" e, em seguida, "Abrir com". Aqui devemos selecionar o explorador do windows e aplicamos as alterações.
+    <br>
+      <br>
+    <b>3º Passo</b>
+    <br>
+    Carregamos com o botão direito do rato no ficheiro .iso e selecionamos a opção "Montar".
+    <br>
+      <br>
+    <b>Nota - </b>A operação descrita anteriormente vai criar um disco de arranque virtual.
+    <br>
+      <br>
+    <b>4º Passo</b>
+    <br>
+    Carregamos 2 vezes (duplo clique) no disco para visualizar os ficheiros que este contém.
+    <br>
+      <br>
+    <b>5º Passo</b>
+    <br>
+    E, por fim, fazemos um duplo clique no "setup.exe" para iniciar a configuração do nosso novo sistema operativo, o Windows 11.
+    <br>
+      <br>
+    <b>Nota - </b>Toda a informação indicada acima é confiável, pois foi retirada do site oficial da Microsoft (<a href="https://www.microsoft.com/pt-pt/software-download/windows11">https://www.microsoft.com/pt-pt/software-download/windows11</a>)
   </div>
 
 </body>
