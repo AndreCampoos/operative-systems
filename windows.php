@@ -46,7 +46,7 @@
                     echo '<a href="areaAdmin.php"><box-icon name="user" type="solid"></box-icon></a>';
                 }
             } else {
-                echo '<a href="login.php"><box-icon name="user" type="solid"></box-icon></a>';
+                echo '<a href="login.php"><box-icon name="user" type="solid" style="color: black;"></box-icon></a>';
             }
           ?>
         </div>
@@ -141,8 +141,14 @@
     <br>
       <br>
     <b>Nota - A assistente pessoal do Windows (Cortana) não se encontra disponível em português, e por esse motivo não funciona caso o sistema operativo se encontre configurado com este idioma.</b>
+
+    <br>
+      <br>
+    <b>Como instalar o Windows através do ISO</b>
+    <br>
+      <br>
+    Esta opção destina-se apenas a quem pretende fazer a instalação através de uma pen com o ficheiro .iso, porém no página oficial da Microsoft (<a href="https://www.microsoft.com/pt-pt/software-download/windows11">https://www.microsoft.com/pt-pt/software-download/windows11</a>) é possível encontrar as restantes alternativas para a instalação deste sistema.
   </div>
 
-  <script src="script.js"></script>
 </body>
 </html>
